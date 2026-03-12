@@ -1,5 +1,7 @@
 # Customer Churn Analysis Dashboard
+![Dashboard Preview](Dashboard_Image.jpeg)
 
+---
 ## Project Overview
 Customer churn is a critical problem for subscription-based businesses such as telecommunications companies.  
 This project presents an **interactive Excel dashboard** designed to analyze customer churn and identify patterns that contribute to customer attrition.
@@ -7,11 +9,6 @@ This project presents an **interactive Excel dashboard** designed to analyze cus
 Using raw customer data, the project performs **data cleaning, transformation, and analysis in Excel**, followed by building an interactive dashboard that helps stakeholders understand churn trends and identify high-risk customer segments.
 
 The dashboard enables data-driven decision making by highlighting **key churn drivers such as contract type, internet service, payment methods, and geographic regions.**
-
----
-
-## Dashboard Preview
-![Dashboard Preview](Dashboard_Image.jpeg)
 
 ---
 
@@ -120,7 +117,7 @@ The goal of this project is to demonstrate skills in:
 - Data Analysis
 - Business Insight Generation
 - Dashboard Design
-- Excel-based Data Visualization
+- Excel based Data Visualization
 
 ---
 
@@ -131,4 +128,4 @@ B.Tech, NIT Raipur
 Aspiring Data Analyst
 
 Skills:  
-SQL | Excel | Data Analysis | Dashboard Development
+Excel | Data Analysis | Dashboard Development
